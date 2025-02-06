@@ -1,6 +1,9 @@
 # 🏦 Bank Management System  
 
 A **comprehensive Java-based banking system** with a **graphical user interface (GUI)** that simulates basic banking operations. This application provides **separate interfaces for customers and administrators** to manage banking activities efficiently, using **file handling** for data persistence.  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7119c125-2714-436d-ad8e-f83ed82df843" alt="Flappy Bird GIF">
+</p>
 
 
 
